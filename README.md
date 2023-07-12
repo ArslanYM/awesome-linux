@@ -5,3 +5,7 @@
 <img align="right" src="" height="100" alt="Kubernetes"> 
 
 ## Installation 
+- [VMware WorkStation](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro.html.html)
+- [VMware Workstation Serial Keys](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)
+- [Ubuntu](https://ubuntu.com/download)
+ 
