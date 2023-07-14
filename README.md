@@ -2,7 +2,7 @@
 
 <p align="center"> Contains all my learning related to Linux tools and tech.</p>
 
-<img align="right" src="" height="100" alt="Kubernetes"> 
+<img align="right" src="" height="100" alt=""> 
 
 ## Installation 
 - [VMware WorkStation](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro.html.html)
