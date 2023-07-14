@@ -4,7 +4,7 @@
 - `nano` (Linux file editor)
 - `gedit` (File edit software)
 - `chmod` (Change directory permission)
- - `chmod `-/+` `{permissions(read r,write w ,execute x)}` `
+  - `chmod -/+ {permissions(read r,write w ,execute x)} `
 
 - `./file_name` (executes the file)
 - `bash` (executes shell programs)

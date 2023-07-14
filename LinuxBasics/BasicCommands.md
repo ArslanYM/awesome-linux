@@ -7,7 +7,7 @@
 - `man` (shows complete manual of command/program)
 - `dir` (same as ls)
 - `mkdir`  (creates a directory)
-- `cp `file name` `path to where` ` (copy a file or folder)
+- `cp {file_name} {path_to_where} ` (copy a file or folder)
 - `mv` (move a file or folder)
 - `rm` (remove a file)
  - `rm -r ` (removes folder recursively)
