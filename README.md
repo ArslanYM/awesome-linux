@@ -11,7 +11,7 @@
 
 
 ## Linux 
-- (Basic Commands)[https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/BasicCommands.md]
-- (Linux File System)[https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/FileSystem.md]
-- (Advanced Commands)[https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/AdvancedCommands.md]
+- [Basic Commands](https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/BasicCommands.md)
+- [Linux File System](https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/FileSystem.md)
+- [Advanced Commands](https://github.com/ArslanYM/awesome-linux/blob/main/LinuxBasics/AdvancedCommands.md)
 
