@@ -3,3 +3,7 @@
 - [Java Point](https://www.javatpoint.com/linux-tutorial)
 - [Linux Docs](https://docs.kernel.org/)
 - [Linux Kernel Docs](https://docs.kernel.org/)
+
+# Installing Linux on your Laptop
+- [Ensligh Tutorial](https://www.youtube.com/watch?v=C5deqtXrpgk)
+- [Hindi Tutorial](https://www.youtube.com/watch?v=wiXV-n5beSo)
