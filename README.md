@@ -4,7 +4,7 @@
 
 
 ## Installation
-
+- [Resources](./Resources/Resources.md)
 
 
 ## Linux 
