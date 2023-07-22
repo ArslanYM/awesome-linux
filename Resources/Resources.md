@@ -13,6 +13,15 @@
 # Installing Linux as an OS
 - [With USB](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/)
 - [Without USB](https://linuxnetmag.com/how-to-install-linux-without-usb/)
+
 # Installing Linux on your Laptop
 - [Ensligh Tutorial](https://www.youtube.com/watch?v=C5deqtXrpgk)
 - [Hindi Tutorial](https://www.youtube.com/watch?v=wiXV-n5beSo)
+
+
+# Versions 
+- [Linux Mint](https://linuxmint.com/edition.php?id=305)
+- [Fedora](https://fedoraproject.org/)
+- [Elementary OS](https://elementary.io/)
+- [Debian](https://www.debian.org/)
+- [Manjaro](https://manjaro.org/)
