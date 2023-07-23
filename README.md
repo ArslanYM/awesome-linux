@@ -1,6 +1,6 @@
 <h1 align="center"> Linux  </h1>
 
-<p align="center"> Contains all my learning related to Linux tools and tech.</p> 
+<p align="center"> This Repo contains the notes and Resources for learning Linux.</p> 
 
 
 ## Installation
